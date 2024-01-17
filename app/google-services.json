@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091281435759",
+    "project_id": "valuefetcher",
+    "storage_bucket": "valuefetcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091281435759:android:c116ddbf84588480e5219a",
+        "android_client_info": {
+          "package_name": "com.vikas.valuefetcher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoEDYAZxUug6knsnRxiDkBbAaIXkbDpek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

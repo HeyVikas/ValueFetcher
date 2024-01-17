@@ -12,7 +12,9 @@ import androidx.lifecycle.viewModelScope
 fun Function(state: MainViewModel) {
     Column (horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center){
-        Button(onClick = { /*TODO*/ }) {
+        Button(onClick = {
+            state.run()
+        }) {
             Text(text = "Click Me")
         }
         Text(text = state.name.value.toString())
