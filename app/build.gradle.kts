@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.vikas.valuefetcher"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.vikas.valuefetcher"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
